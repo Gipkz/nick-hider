@@ -1,7 +1,7 @@
 -- credits to 07granddad for making this
 while game:IsLoaded() == false do wait() end
-local fakeplr = {["Name"] = "Cathe", ["UserId"] = "163211576"}
-local otherfakeplayers = {["Name"] = "ROBLOX", ["UserId"] = "1"}
+local fakeplr = {["Name"] = "FarukTPC", ["UserId"] = "163211576"}
+local otherfakeplayers = {["Name"] = "Anan", ["UserId"] = "1"}
 local lplr = game:GetService("Players").LocalPlayer
 
 local function plrthing(obj, property)
